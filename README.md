@@ -1,3 +1,4 @@
+<a href="intent://example.com#Intent;scheme=http;package=com.app;end">Buka aplikasi</a>
 
 
 # bebew
