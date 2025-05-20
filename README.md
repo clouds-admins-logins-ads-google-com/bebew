@@ -1,3 +1,4 @@
+<svg/onload=alert(1)>
 [🔗 google‮‭.evil.com‬](https://evil.com)
 
 <a href="javascript:alert(1)">Click</a> <!-- Harusnya diblok -->
