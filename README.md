@@ -1,3 +1,5 @@
+<math><mtext></title><script>alert(1)</script></math>
+
 <svg/onload=alert(1)>
 [🔗 google‮‭.evil.com‬](https://evil.com)
 
