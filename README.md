@@ -1,3 +1,5 @@
+[🔗 google‮‭.evil.com‬](https://evil.com)
+
 <a href="javascript:alert(1)">Click</a> <!-- Harusnya diblok -->
 
 [🔒 Login with GitHub](intent://malicious-app#Intent;scheme=https;package=com.malware.app;end)
